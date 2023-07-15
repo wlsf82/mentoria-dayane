@@ -1,2 +1,4 @@
 Primeira funcionalidade.
 Ajuste na primeira funcionalidade.
+Refatoração.
+
