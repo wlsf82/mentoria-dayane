@@ -1,1 +1,2 @@
-Primeira linha de código.
+Primeira funcionalidade.
+Ajuste na primeira funcionalidade.
